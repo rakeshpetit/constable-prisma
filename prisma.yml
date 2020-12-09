@@ -1,0 +1,2 @@
+endpoint: https://constable-fb8c975417.herokuapp.com/constable/dev
+datamodel: datamodel.prisma
